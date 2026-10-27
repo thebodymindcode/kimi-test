@@ -1066,5 +1066,5 @@ section.kb-cta{padding-top:52px;padding-bottom:64px}
 
 @media(max-width:640px){
   .arthero .in{width:100%;min-width:0;box-sizing:border-box}
-  .arthero h1{max-width:100%;min-width:0;font-size:clamp(18px,5.2vw,22px);line-height:1.16;letter-spacing:-.025em;overflow-wrap:normal;word-break:normal}
+  .arthero h1{max-width:100%;min-width:0;font-size:clamp(18px,5.2vw,22px);line-height:1.16;letter-spacing:normal;overflow-wrap:normal;word-break:normal}
 }
