@@ -1064,7 +1064,8 @@ section.kb-cta{padding-top:52px;padding-bottom:64px}
 .kb-figure img{display:block;width:100%;height:auto;aspect-ratio:1600/914;object-fit:cover}
 .kb-figure figcaption{padding:13px 18px;color:var(--mut);font-size:14px;line-height:1.5}
 
+.arthero h1{line-height:1.3;letter-spacing:normal}
 @media(max-width:640px){
   .arthero .in{width:100%;min-width:0;box-sizing:border-box}
-  .arthero h1{max-width:100%;min-width:0;font-size:clamp(18px,5.2vw,22px);line-height:1.16;letter-spacing:normal;overflow-wrap:normal;word-break:normal}
+  .arthero h1{max-width:100%;min-width:0;font-size:clamp(18px,5.2vw,22px);line-height:1.3;letter-spacing:normal;overflow-wrap:normal;word-break:normal}
 }
